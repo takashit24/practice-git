@@ -1,0 +1,13 @@
+# OSが勝手に作るファイル
+.DS_Store
+Thumbs.db
+
+# エディタの設定
+.vscode/
+
+# Firebase関連（例）
+serviceAccountKey.json
+.firebaserc
+
+# 環境変数ファイル
+.env
